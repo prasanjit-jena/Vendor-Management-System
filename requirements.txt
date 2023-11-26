@@ -1,4 +1,4 @@
 Django
 djangorestframework
-numpy
-pandas
+psycopg2
+django-filter 
